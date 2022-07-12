@@ -9,6 +9,7 @@
 ` pip install -r requirements.txt `
 
 Буду очень благодарен за оставленную обратную связь  
+
 gmail: a.1wanowskiy@gmail.com  
 Discord: 2FeD#9182  
 telegram: @TyFeD
